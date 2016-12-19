@@ -7,6 +7,8 @@ The shells contained here are extensively tested to be sure they are free of mal
 
 Please feel free to investigate them before use. If you find anything suspicious (...more then usual), just let me know.
 
+I'll try to keep the shells with their original names, but using .txt extensions
+
 DISCLAIMER
 
 The shells here are meant to be used for study only and not to be used for real attacks or backdoors. Use it at your own risk.

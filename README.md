@@ -7,14 +7,14 @@ The shells contained here are extensively tested to be sure they are free of mal
 
 Please feel free to investigate them before use. If you find anything suspicious (...more then usual), just let me know.
 
-I'll try to keep the shells with their original names, but using .txt extensions
+I'll try to keep the list of shells as upda to date as possible, following my availability.
 
 
 # Shell Information Structure
 
 Every shell will be kept in a directory with it's proper name, inside the directory within the language it was developed, such as: 
 
-```PHP > SimpleShell_001```
+```shellpedia > PHP > SimpleShell_001```
 
 In regards to information, every shell will have:
 
@@ -22,11 +22,12 @@ In regards to information, every shell will have:
 2. Author
 3. Language
 4. Year (when known)
-5. Requirements
-6. Features
-7. Installation Instructions
-8. Usage Instructions
-9. Review & Hints
+5. Features
+6. Requirements
+7. Tested with
+8. Installation Instructions
+9. Usage Instructions
+10. Review & Hints
 
 # DISCLAIMER
 

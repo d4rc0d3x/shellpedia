@@ -14,7 +14,7 @@ I'll try to keep the list of shells as upda to date as possible, following my av
 
 Every shell will be kept in a directory with it's proper name, inside the directory within the language it was developed, such as: 
 
-```shellpedia > PHP > SimpleShell_001```
+```shellpedia > PHP > SimpleShell_001 > simple_shell_001.php```
 
 In regards to information, every shell will have:
 

@@ -10,6 +10,11 @@ Please feel free to investigate them before use. If you find anything suspicious
 
 I'll try to keep the list of shells as upda to date as possible, following my availability.
 
+# New Shells
+
+This is intended to be a FREE COMMUNITY Project, so feel free to send me new shells in many languages to be tested and added to the project. Please, send information as such the ones below (Shell Information Structure) if possible to make my life a little bit easier.
+
+Thanks.
 
 # Shell Information Structure
 

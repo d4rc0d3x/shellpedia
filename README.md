@@ -30,7 +30,7 @@ In regards to information, every shell will have:
 
 # DISCLAIMER
 
-The shells here collected are meant to be used for study only and not to be used for real attacks or backdoors. Use it at your own risk.
+The shells here collected are meant to be used for study only. Use it at your own risk. If you are planning to use them in a attack I take no responsiblity on it.
 
 
 Happy Hacking

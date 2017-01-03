@@ -1,5 +1,4 @@
 # Shellpedia
-Collection of Shells and Web Shells
 
 Shellpedia is meant to be a repository/collection of Shells and Web Shells developed by me and/or authors in the Internet, and ways to use them. Here you will find Web Shells such as PHP, ASP, .NET, JavaScript, Java, JSP, etc. Also system shells like Bash, Shell, Netcat, Ruby, among other examples.
 

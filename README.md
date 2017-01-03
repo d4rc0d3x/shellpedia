@@ -4,7 +4,7 @@ Shellpedia is meant to be a repository/collection of Shells and Web Shells devel
 
 Whenever a shell is composed of simple commands, only the command will be provided in the README.md file.
 
-The shells contained here are extensively tested to be sure they are free of malwares, malicious payloads, and are actually working.
+The shells contained here are extensively tested to be sure they are free of malwares, malicious payloads, and are actually working. Additionally whenever a correction to the code is necessary, it will be done and showed with the appropriate notes to the original version.
 
 Please feel free to investigate them before use. If you find anything suspicious (...more then usual), just let me know.
 

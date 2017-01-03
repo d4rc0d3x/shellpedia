@@ -2,7 +2,9 @@
 
 Shellpedia is meant to be a repository/collection of Shells and Web Shells developed by me and/or other authors in the Internet, install and usage instructions as well as requirements for them to work. Here you will find Web Shells such as PHP, ASP, .NET, JavaScript, Java, JSP, etc. Also system shells like Bash, Shell, Netcat, Ruby, among other examples.
 
-The shells contained here are extensively tested to be sure they are free of malwares, malicious payloads, etc.
+Whenever a shell is composed of simple commands, only the command will be provided in the README.md file.
+
+The shells contained here are extensively tested to be sure they are free of malwares, malicious payloads, and are actually working.
 
 Please feel free to investigate them before use. If you find anything suspicious (...more then usual), just let me know.
 
